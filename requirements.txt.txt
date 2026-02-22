@@ -1,0 +1,37 @@
+# PyTorch for deep learning
+torch>=2.1.0
+torchvision>=0.16.0
+
+# MedMNIST dataset utilities
+medmnist>=2.3.0
+
+# Data processing
+numpy>=1.24.0
+scikit-learn>=1.3.0
+pillow>=10.0.0
+
+# Optional: for progress bars and logging
+tqdm>=4.66.0
+
+# Optional: for visualization (Grad-CAM / plotting)
+matplotlib>=3.8.0
+seaborn>=0.12.2
+
+# Core Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Model Architectures
+timm>=0.9.0
+
+# Dataset
+medmnist>=2.2.0
+
+# Utilities
+numpy>=1.23.0
+tqdm>=4.65.0
+
+# Evaluation & Visualization (Optional but Recommended)
+matplotlib>=3.7.0
+scikit-learn>=1.3.0
+
